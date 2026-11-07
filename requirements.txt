@@ -1,0 +1,10 @@
+streamlit>=1.40,<2
+httpx>=0.27,<1
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+pydantic>=2.9,<3
+pydantic-settings>=2.6,<3
+python-dotenv>=1,<2
+openai>=1.66,<3
+pyedhrec==0.0.2
+pytest>=8,<9
